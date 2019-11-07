@@ -550,3 +550,4 @@ def adult_data_demo():
     shutil.rmtree(cachedir)
 
     return p_best, df_scores, df_ccr, ccr_fig
+
